@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 import jwt from 'jsonwebtoken';
 
 import { promisify } from 'util';
